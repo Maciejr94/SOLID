@@ -1,0 +1,15 @@
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\bin\Debug\net7.0\LSPMain.exe
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\bin\Debug\net7.0\LSPMain.deps.json
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\bin\Debug\net7.0\LSPMain.runtimeconfig.json
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\bin\Debug\net7.0\LSPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\bin\Debug\net7.0\LSPMain.pdb
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\LSPMain.csproj.AssemblyReference.cache
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\LSPMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\LSPMain.AssemblyInfoInputs.cache
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\LSPMain.AssemblyInfo.cs
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\LSPMain.csproj.CoreCompileInputs.cache
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\LSPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\refint\LSPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\LSPMain.pdb
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\LSPMain.genruntimeconfig.cache
+C:\Users\MasnyRut\source\repos\Solid\LSPMain\obj\Debug\net7.0\ref\LSPMain.dll

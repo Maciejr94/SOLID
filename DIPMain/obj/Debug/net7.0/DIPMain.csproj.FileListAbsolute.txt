@@ -1,0 +1,15 @@
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\bin\Debug\net7.0\DIPMain.exe
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\bin\Debug\net7.0\DIPMain.deps.json
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\bin\Debug\net7.0\DIPMain.runtimeconfig.json
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\bin\Debug\net7.0\DIPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\bin\Debug\net7.0\DIPMain.pdb
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\DIPMain.csproj.AssemblyReference.cache
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\DIPMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\DIPMain.AssemblyInfoInputs.cache
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\DIPMain.AssemblyInfo.cs
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\DIPMain.csproj.CoreCompileInputs.cache
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\DIPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\refint\DIPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\DIPMain.pdb
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\DIPMain.genruntimeconfig.cache
+C:\Users\MasnyRut\source\repos\Solid\DIPMain\obj\Debug\net7.0\ref\DIPMain.dll

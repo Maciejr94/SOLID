@@ -1,0 +1,15 @@
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\bin\Debug\net7.0\OCPMain.exe
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\bin\Debug\net7.0\OCPMain.deps.json
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\bin\Debug\net7.0\OCPMain.runtimeconfig.json
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\bin\Debug\net7.0\OCPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\bin\Debug\net7.0\OCPMain.pdb
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\OCPMain.csproj.AssemblyReference.cache
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\OCPMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\OCPMain.AssemblyInfoInputs.cache
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\OCPMain.AssemblyInfo.cs
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\OCPMain.csproj.CoreCompileInputs.cache
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\OCPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\refint\OCPMain.dll
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\OCPMain.pdb
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\OCPMain.genruntimeconfig.cache
+C:\Users\MasnyRut\source\repos\Solid\OCPMain\obj\Debug\net7.0\ref\OCPMain.dll
